@@ -1,4 +1,4 @@
-// file name -- assign04.cpp
+// file name -- createImage.cpp
 
 // This program is creates an image with either a random or fixed
 // pattern and blends it.
